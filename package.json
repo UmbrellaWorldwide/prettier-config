@@ -1,0 +1,24 @@
+{
+  "name": "@umbrellaworldwide/prettier-config",
+  "version": "1.0.0",
+  "description": "Umbrella Worldwide's base prettier configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UmbrellaWorldwide/prettier-config"
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "umbrellaworldwide"
+  ],
+  "author": "Umbrella Worldwide <tech@umbrella.co> (https://www.umbrella.co)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UmbrellaWorldwide/prettier-config/issues"
+  },
+  "homepage": "https://github.com/UmbrellaWorldwide/prettier-config#readme",
+  "dependencies": {
+    "prettier": "^2.x.x"
+  }
+}
